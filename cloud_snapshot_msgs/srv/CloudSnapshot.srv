@@ -1,0 +1,12 @@
+# request fields
+string input_topic
+
+---
+
+# response constants
+int8 SUCCESS=0
+int8 FAILURE=1
+
+#response fields
+int8 result
+string error_msg

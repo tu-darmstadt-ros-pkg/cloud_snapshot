@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+
+<launch>
+  <node name="cloud_snapshot" pkg="cloud_snapshot" type="cloud_snapshot_node" output="screen">
+  </node>
+</launch>
